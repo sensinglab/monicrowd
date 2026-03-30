@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "MoniCrowd"
+message: "If you use this project, please cite it as follows."
+type: software
+authors:
+  - family-names: Marinheiro
+    given-names: R. N.
+    affiliation: Instituto de Telecomunicações, Iscte - Instituto Universitário de Lisboa
+- family-names: Brito e Abreu
+    given-names: F.
+    affiliation: Associação ISCTE Conhecimento e Inovação - Centro de Valorização e Transferência de Tecnologias, Iscte - Instituto Universitário de Lisboa
+url: "https://monicrowd.sensinglab.eu"
