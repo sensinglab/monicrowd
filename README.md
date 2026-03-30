@@ -1,12 +1,14 @@
 # MoniCrowd
 
-<p align="center">
+<p>
+  <b>Adaptive system for crowding monitoring using user's devices fingerprinting</b>
+</p>
+
+<p>
   <img src="docs/images/logo-monicrowd.png" alt="MoniCrowd logo" width="500"/>
 </p>
 
-<p align="center">
-  <b>Adaptive system for crowding monitoring using user's devices fingerprinting</b>
-</p>
+
 
 ---
 
