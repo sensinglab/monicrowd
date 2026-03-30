@@ -131,7 +131,6 @@ MoniCrowd builds upon previous experimental work on WiFi-based crowd sensing and
 
 ## Contact
 
-**SensingLab**  
 - Instituto de Telecomunicações
 - Associação ISCTE Conhecimento e Inovação - Centro de Valorização e Transferência de Tecnologias
 - Município de Lisboa
