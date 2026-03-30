@@ -108,8 +108,7 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 
 ## Funding
 
-The MoniCrowd project **2024.07624.IACDC** is supported by measure **RE-C05-i08.M04** – “Support the launch of a program of R&D projects aimed at the development and implementation of advanced cybersecurity, artificial intelligence and data science systems in public administration, as well as a scientific capacity building program of the **Recovery and Resilience Plan (PRR)**, within the framework of the financing contract signed between the Recuperar Portugal Mission Structure (EMRP) and the Portuguese Foundation for Science and Technology."
-🔗 https://doi.org/10.54499/2024.07624.IACDC
+The MoniCrowd project **2024.07624.IACDC** https://doi.org/10.54499/2024.07624.IACDC is supported by measure **RE-C05-i08.M04** – “Support the launch of a program of R&D projects aimed at the development and implementation of advanced cybersecurity, artificial intelligence and data science systems in public administration, as well as a scientific capacity building program of the **Recovery and Resilience Plan (PRR)**, within the framework of the financing contract signed between the Recuperar Portugal Mission Structure (EMRP) and the Portuguese Foundation for Science and Technology."
 
 ---
 
