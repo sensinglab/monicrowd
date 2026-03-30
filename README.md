@@ -135,5 +135,8 @@ The MoniCrowd project **2024.07624.IACDC** (https://doi.org/10.54499/2024.07624.
 
 ## License
 
-(to be added)  
+© 2026 Instituto de Telecomunicações, Associação ISCTE Conhecimento e Inovação - Centro de Valorização e Transferência de Tecnologias, Iscte – Instituto Universitário de Lisboa
 
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+See the [LICENSE](LICENSE) file for full terms.
