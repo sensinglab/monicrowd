@@ -1,7 +1,7 @@
 # MoniCrowd
 
 <p align="center">
-  <img src="images/logo-monicrowd.png" alt="MoniCrowd logo" width="500"/>
+  <img src="docs/images/logo-monicrowd.png" alt="MoniCrowd logo" width="500"/>
 </p>
 
 <p align="center">
