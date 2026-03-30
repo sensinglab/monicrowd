@@ -114,11 +114,11 @@ The MoniCrowd project **2024.07624.IACDC** (https://doi.org/10.54499/2024.07624.
 
 ## Related Resources
 
-- 🌐 Website: https://monicrowd.sensinglab.eu  
-- 📊 Dataset: (Zenodo to be added)  
-- 📚 Publications: https://monicrowd.sensinglab.eu/home/dissemination
-- 📣 Dissemination activities: https://monicrowd.sensinglab.eu/home/dissemination
-- 📍 Demonstrations & deployments: https://monicrowd.sensinglab.eu/home/deployments
+🌐 Website: https://monicrowd.sensinglab.eu  
+📊 Dataset: (Zenodo to be added)  
+📚 Publications: https://monicrowd.sensinglab.eu/home/dissemination
+📣 Dissemination activities: https://monicrowd.sensinglab.eu/home/dissemination
+📍 Demonstrations & deployments: https://monicrowd.sensinglab.eu/home/deployments
 
 ---
 
