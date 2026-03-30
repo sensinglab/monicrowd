@@ -2,11 +2,24 @@ cff-version: 1.2.0
 title: "MoniCrowd"
 message: "If you use this project, please cite it as follows."
 type: software
+
 authors:
   - family-names: Marinheiro
     given-names: R. N.
     affiliation: Instituto de Telecomunicações, Iscte - Instituto Universitário de Lisboa
-- family-names: Brito e Abreu
+
+  - family-names: Brito e Abreu
     given-names: F.
     affiliation: Associação ISCTE Conhecimento e Inovação - Centro de Valorização e Transferência de Tecnologias, Iscte - Instituto Universitário de Lisboa
+
 url: "https://monicrowd.sensinglab.eu"
+repository-code: "https://github.com/sensinglab/monicrowd"
+
+version: "1.0.0"
+license: GPL-3.0
+
+identifiers:
+  - type: doi
+    value: 10.54499/2024.07624.IACDC
+
+abstract: "MoniCrowd is an adaptive and privacy-preserving system for real-time crowd monitoring using device fingerprinting and multi-RAN sensing."
