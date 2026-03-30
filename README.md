@@ -36,7 +36,7 @@ MoniCrowd is organized as a modular system composed of edge devices, backend ser
 ```
 Sensors (WiFi, IR, …)
 ↓
-Edge Processing (crowd-sensor, barrier-sensor)
+Edge Processing (crowd-sensor, barrier-sensor, …)
 ↓
 Multi-RAN Communication (WiFi / LoRa / …)
 ↓
@@ -108,11 +108,8 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 
 ## Funding
 
-The MoniCrowd project **2024.07624.IACDC**  
-🔗 https://doi.org/10.54499/2024.07624.IACDC  
-
-is supported by measure **RE-C05-i08.M04** –  
-“Support the launch of a program of R&D projects aimed at the development and implementation of advanced cybersecurity, artificial intelligence and data science systems in public administration, as well as a scientific capacity building program of the **Recovery and Resilience Plan (PRR)**, within the framework of the financing contract signed between the Recuperar Portugal Mission Structure (EMRP) and the Portuguese Foundation for Science and Technology."
+The MoniCrowd project **2024.07624.IACDC** is supported by measure **RE-C05-i08.M04** – “Support the launch of a program of R&D projects aimed at the development and implementation of advanced cybersecurity, artificial intelligence and data science systems in public administration, as well as a scientific capacity building program of the **Recovery and Resilience Plan (PRR)**, within the framework of the financing contract signed between the Recuperar Portugal Mission Structure (EMRP) and the Portuguese Foundation for Science and Technology."
+🔗 https://doi.org/10.54499/2024.07624.IACDC
 
 ---
 
@@ -135,9 +132,9 @@ MoniCrowd builds upon previous experimental work on WiFi-based crowd sensing and
 ## Contact
 
 **SensingLab**  
-Instituto de Telecomunicações
-Associação ISCTE Conhecimento e Inovação - Centro de Valorização e Transferência de Tecnologias
-Município de Lisboa
+- Instituto de Telecomunicações
+- Associação ISCTE Conhecimento e Inovação - Centro de Valorização e Transferência de Tecnologias
+- Município de Lisboa
 
 📧 info@sensinglab.eu  
 🌐 https://monicrowd.sensinglab.eu  
