@@ -81,6 +81,12 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 ### Crowd Sensor *(crowd-sensor)*
 ![Crowd Sensor](docs/images/crowd-sensor.jpg)
 
+[![3D Sensor View](docs/images/sensor-3d-preview.png)](https://3dviewer.net/embed.html#model=https://github.com/sensinglab/crowd-sensor/blob/main/sensor-case/3684_MoniCrowd_IT-ISTAR_All-ShareViz-v04.3.glb)
+
+🔗 [Open interactive 3D model](https://3dviewer.net/embed.html#model=https://github.com/sensinglab/crowd-sensor/blob/main/sensor-case/3684_MoniCrowd_IT-ISTAR_All-ShareViz-v04.3.glb)
+
+*Click the image to open the interactive 3D model.*
+
 ### Barrier Sensor *(barrier-sensor)*
 ![Barrier Sensor](docs/images/barrier-sensor.gif)
 
