@@ -60,21 +60,35 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 ### Core Components
 
 - **[crowd-sensor](https://github.com/sensinglab/crowd-sensor)**  
-  Edge software for data collection and local processing, supporting multi-RAN and multi-operator connectivity, seamless handover, and OTA updates, implementing the CrowdingSensorUnit of the component diagram
+  Edge software for data collection and local processing, supporting multi-RAN and multi-operator connectivity, seamless handover, and OTA updates, implementing the CrowdingSensorUnit of the component diagram *(see Hardware Overview below)*
 
 - **[crowd-server](https://github.com/sensinglab/crowd-server)**  
-  Real-time backend for data ingestion, processing, storage, visualization, and alerting, implementing the CrowdingServerUnit of the component diagram
+  Real-time backend for data ingestion, processing, storage, visualization, and alerting, implementing the CrowdingServerUnit of the component diagram 
 
 - **[barrier-sensor](https://github.com/sensinglab/barrier-sensor)**  
-  Low-power pedestrian detection and counting using active infrared beams, including direction detection, implementing the CrowdingSensorUnit of the component diagram
+  Low-power pedestrian detection and counting using active infrared beams, including direction detection, implementing the CrowdingSensorUnit of the component diagram *(see Hardware Overview below)*
 
 ### Calibration & Deployment
 
 - **[faradaycage-sniffer](https://github.com/sensinglab/faradaycage-sniffer)**  
-  Autonomous multi-channel WiFi probe request sniffer for controlled dataset collection in Faraday cage environments.
+  Autonomous multi-channel WiFi probe request sniffer for controlled dataset collection in Faraday cage environments. *(see Hardware Overview below)*
   
 - **[crowd-sensor-calibration](https://github.com/sensinglab/crowd-sensor-calibration)**  
-  Tools for calibration and deployment optimization, enabling adaptive configuration, sensitivity mapping, and improved measurement accuracy, implementing the AdaptiveCalibrationUnit and parts of the CrowdingServerUnit of the component diagram
+  Tools for calibration and deployment optimization, enabling adaptive configuration, sensitivity mapping, and improved measurement accuracy, implementing the AdaptiveCalibrationUnit and parts of the CrowdingServerUnit of the component diagram 
+
+## Hardware Overview
+
+### Crowd Sensor *(crowd-sensor)*
+![Crowd Sensor](docs/images/crowd-sensor.jpg)
+
+### Barrier Sensor *(barrier-sensor)*
+![Barrier Sensor](docs/images/barrier-sensor.gif)
+
+### Faraday Cage Setup *(faradaycage-sniffer)*
+![Faraday Cage](docs/images/faraday-cage.png)
+
+### Calibration Setup *(crowd-sensor-calibration)*
+![Calibration Setup](docs/images/calibration.jpg)
 
 ---
 
