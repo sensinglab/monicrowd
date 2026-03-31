@@ -44,7 +44,9 @@ Backend (crowd-server)
 ↓
 Dashboards & Alerts
 ```
+The following component diagram provides a more detailed view of the system architecture, highlighting the interaction between edge sensing units, the backend platform, and the adaptive calibration subsystem. It illustrates how data flows across the edge-to-cloud pipeline, including sensing, local processing, multi-RAN communication, backend ingestion, visualization, and remote configuration.
 
+![MoniCrowd Component Diagram](docs/images/component-diagram.png)
 ---
 
 ## Project Website
@@ -60,13 +62,13 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 ### Core Components
 
 - **[crowd-sensor](https://github.com/sensinglab/crowd-sensor)**  
-  Edge software for data collection and local processing, supporting multi-RAN and multi-operator connectivity, seamless handover, and OTA updates.
+  Edge software for data collection and local processing, supporting multi-RAN and multi-operator connectivity, seamless handover, and OTA updates, implementing the CrowdingSensorUnit of the component diagram
 
 - **[crowd-server](https://github.com/sensinglab/crowd-server)**  
-  Real-time backend for data ingestion, processing, storage, visualization, and alerting.
+  Real-time backend for data ingestion, processing, storage, visualization, and alerting, implementing the CrowdingServerUnit of the component diagram
 
 - **[barrier-sensor](https://github.com/sensinglab/barrier-sensor)**  
-  Low-power pedestrian detection and counting using active infrared beams, including direction detection.
+  Low-power pedestrian detection and counting using active infrared beams, including direction detection, implementing the CrowdingSensorUnit of the component diagram
 
 ### Calibration & Deployment
 
@@ -74,7 +76,7 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
   Autonomous multi-channel WiFi probe request sniffer for controlled dataset collection in Faraday cage environments.
   
 - **[crowd-sensor-calibration](https://github.com/sensinglab/crowd-sensor-calibration)**  
-  Tools for calibration and deployment optimization, enabling adaptive configuration, sensitivity mapping, and improved measurement accuracy.
+  Tools for calibration and deployment optimization, enabling adaptive configuration, sensitivity mapping, and improved measurement accuracy, implementing the AdaptiveCalibrationUnit and parts of the CrowdingServerUnit of the component diagram
 
 ---
 
