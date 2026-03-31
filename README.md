@@ -1,12 +1,14 @@
 # MoniCrowd
 
-<p align="center">
-  <img src="images/logo-monicrowd.png" alt="MoniCrowd logo" width="500"/>
-</p>
-
-<p align="center">
+<p>
   <b>Adaptive system for crowding monitoring using user's devices fingerprinting</b>
 </p>
+
+<p>
+  <img src="docs/images/logo-monicrowd.png" alt="MoniCrowd logo" width="500"/>
+</p>
+
+
 
 ---
 
@@ -34,7 +36,7 @@ MoniCrowd is organized as a modular system composed of edge devices, backend ser
 ```
 Sensors (WiFi, IR, …)
 ↓
-Edge Processing (crowd-sensor, barrier-sensor)
+Edge Processing (crowd-sensor, barrier-sensor, …)
 ↓
 Multi-RAN Communication (WiFi / LoRa / …)
 ↓
@@ -106,36 +108,25 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 
 ## Funding
 
-The MoniCrowd project **2024.07624.IACDC**  
-🔗 https://doi.org/10.54499/2024.07624.IACDC  
-
-is supported by measure **RE-C05-i08.M04** –  
-“Support the launch of a program of R&D projects aimed at the development and implementation of advanced cybersecurity, artificial intelligence and data science systems in public administration, as well as a scientific capacity building program of the **Recovery and Resilience Plan (PRR)**, within the framework of the financing contract signed between the Recuperar Portugal Mission Structure (EMRP) and the Portuguese Foundation for Science and Technology."
+The MoniCrowd project **2024.07624.IACDC** (https://doi.org/10.54499/2024.07624.IACDC) is supported by measure **RE-C05-i08.M04** – “Support the launch of a program of R&D projects aimed at the development and implementation of advanced cybersecurity, artificial intelligence and data science systems in public administration, as well as a scientific capacity building program of the **Recovery and Resilience Plan (PRR)**, within the framework of the financing contract signed between the Recuperar Portugal Mission Structure (EMRP) and the Portuguese Foundation for Science and Technology."
 
 ---
 
 ## Related Resources
 
-- 🌐 Website: https://monicrowd.sensinglab.eu  
-- 📊 Dataset: (Zenodo to be added)  
-- 📄 Publications: https://monicrowd.sensinglab.eu/home/dissemination
-- 📄 Dissemination activities: https://monicrowd.sensinglab.eu/home/dissemination
-- 🧪 Demonstrations & deployments: https://monicrowd.sensinglab.eu/home/deployments
-
----
-
-## Project Origin
-
-MoniCrowd builds upon previous experimental work on WiFi-based crowd sensing and device fingerprinting. Earlier prototypes are preserved in legacy repositories for reference.
+🌐 Website: https://monicrowd.sensinglab.eu  
+📊 Dataset: (Zenodo to be added)  
+📚 Publications: https://monicrowd.sensinglab.eu/home/dissemination  
+📣 Dissemination activities: https://monicrowd.sensinglab.eu/home/dissemination  
+📍 Demonstrations & deployments: https://monicrowd.sensinglab.eu/home/deployments  
 
 ---
 
 ## Contact
 
-**SensingLab**  
-Instituto de Telecomunicações
-Associação ISCTE Conhecimento e Inovação - Centro de Valorização e Transferência de Tecnologias
-Município de Lisboa
+- Instituto de Telecomunicações
+- Associação ISCTE Conhecimento e Inovação - Centro de Valorização e Transferência de Tecnologias
+- Município de Lisboa
 
 📧 info@sensinglab.eu  
 🌐 https://monicrowd.sensinglab.eu  
@@ -144,5 +135,8 @@ Município de Lisboa
 
 ## License
 
-(to be added)  
+© 2026 Instituto de Telecomunicações, Associação ISCTE Conhecimento e Inovação - Centro de Valorização e Transferência de Tecnologias, Iscte – Instituto Universitário de Lisboa
 
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+See the [LICENSE](LICENSE) file for full terms.
