@@ -98,7 +98,7 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 </table>
 
 
-<p align="center">
+<p align="left">
   <a href="https://3dviewer.net/#model=...">
     <img src="docs/images/sensor-3d-preview.png" width="350"/>
   </a>
@@ -106,7 +106,7 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
   <img src="docs/images/sensor-deployment.jpg" width="350"/>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://3dviewer.net/#model=...">Open interactive 3D model</a>
 </p>
 
