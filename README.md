@@ -8,8 +8,6 @@
   <img src="docs/images/logo-monicrowd.png" alt="MoniCrowd logo" width="500"/>
 </p>
 
-
-
 ---
 
 ## Overview
