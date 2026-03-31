@@ -88,11 +88,11 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
       <a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/sensinglab/crowd-sensor/main/sensor-case/3684_MoniCrowd_IT-ISTAR_All-ShareViz-v04.3.glb">
         <img src="docs/images/sensor-3d-preview.png" alt="3D Sensor View" width="350"/>
       </a><br/>
-      
+      <sub>3D Design</sub>
     </td>
     <td align="center">
       <img src="docs/images/sensor-deployment.jpg" alt="Sensor Deployment" width="350"/><br/>
-      
+      <sub>Real Deployment</sub>
     </td>
   </tr>
 </table>
