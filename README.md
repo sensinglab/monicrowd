@@ -98,21 +98,17 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 </table>
 
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
-      <a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/sensinglab/crowd-sensor/main/sensor-case/3684_MoniCrowd_IT-ISTAR_All-ShareViz-v04.3.glb">
-        <img src="docs/images/sensor-3d-preview.png" alt="3D Sensor View" width="350"/>
-      </a><br/>
-      <a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/sensinglab/crowd-sensor/main/sensor-case/3684_MoniCrowd_IT-ISTAR_All-ShareViz-v04.3.glb">
-        Open interactive 3D model
-      </a>
-    </td>
-    <td align="center">
-      <img src="docs/images/sensor-deployment.jpg" alt="Sensor Deployment" width="350"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://3dviewer.net/#model=...">
+    <img src="docs/images/sensor-3d-preview.png" width="350"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="docs/images/sensor-deployment.jpg" width="350"/>
+</p>
+
+<p align="center">
+  <a href="https://3dviewer.net/#model=...">Open interactive 3D model</a>
+</p>
 
 ### Barrier Sensor *(barrier-sensor)*
 ![Barrier Sensor](docs/images/barrier-sensor.gif)
