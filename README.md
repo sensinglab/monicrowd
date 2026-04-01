@@ -98,8 +98,19 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 </table>
 
 ### Barrier Sensor *(barrier-sensor)*
-![Barrier Sensor](docs/images/barrier-sensor.gif)
+<p align="center">
+  <img src="docs/images/barrier-sensor.gif" alt="Barrier Sensor Animation" width="350"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://3dviewer.net/#model=YOUR_BARRIER_GLB_LINK">
+    <img src="docs/images/barrier-sensor-3d.png" alt="Barrier Sensor 3D View" width="350"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://3dviewer.net/embed.html#model=https://github.com/sensinglab/barrier-sensor/blob/main/sensor-case/3642_CaixasSendoresIR_v3_cxL-M_ShareViz_1.glb">
+    Open interactive 3D model
+  </a>
+</p>
 ### Faraday Cage Setup *(faradaycage-sniffer)*
 ![Faraday Cage](docs/images/faraday-cage.png)
 
