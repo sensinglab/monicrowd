@@ -101,7 +101,7 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
-      <img src="docs/images/barrier-sensor.gif" alt="Barrier Sensor Animation" width="350"/>
+      <img src="docs/images/barrier-sensor.gif" alt="Barrier Sensor Animation"/>
     </td>
     <td align="center">
       <a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/sensinglab/barrier-sensor/main/sensor-case/3642_CaixasSendoresIR_v3_cxL-M_ShareViz_1.glb">
