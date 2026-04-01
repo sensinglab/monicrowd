@@ -121,11 +121,11 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
-      <img src="docs/images/pinephone.png" alt="Calibration Device (PinePhone)" width="350"/><br/>
+      <img src="docs/images/pinephone.png" alt="Calibration Device (PinePhone)" width="200"/><br/>
       <sub>Calibration Device (PinePhone)</sub>
     </td>
     <td align="center">
-      <img src="docs/images/calibration.png" alt="Calibration Setup" width="350"/>
+      <img src="docs/images/calibration.png" alt="Calibration Setup"/>
     </td>
   </tr>
 </table>
