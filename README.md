@@ -118,7 +118,16 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 ![Faraday Cage](docs/images/faraday-cage.png)
 
 ### Calibration Setup *(crowd-sensor-calibration)*
-![Calibration Setup](docs/images/calibration.png)
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <img src="docs/images/pinephone.png" alt="Calibration Device (PinePhone)" width="350"/>
+    </td>
+    <td align="center">
+      <img src="docs/images/calibration.png" alt="Calibration Setup" width="350"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
