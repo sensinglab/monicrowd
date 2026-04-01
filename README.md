@@ -111,6 +111,7 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
     Open interactive 3D model
   </a>
 </p>
+
 ### Faraday Cage Setup *(faradaycage-sniffer)*
 ![Faraday Cage](docs/images/faraday-cage.png)
 
