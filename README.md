@@ -118,7 +118,7 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 ![Faraday Cage](docs/images/faraday-cage.png)
 
 ### Calibration Setup *(crowd-sensor-calibration)*
-![Calibration Setup](docs/images/calibration.jpg)
+![Calibration Setup](docs/images/calibration.png)
 
 ---
 
