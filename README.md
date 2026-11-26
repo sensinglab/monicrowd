@@ -76,6 +76,11 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 - **[crowd-sensor-calibration](https://github.com/sensinglab/crowd-sensor-calibration)**  
   Tools for calibration and deployment optimization, enabling adaptive configuration, sensitivity mapping, and improved measurement accuracy, implementing the AdaptiveCalibrationUnit and parts of the CrowdingServerUnit of the component diagram 
 
+### Research & Data Analysis
+
+- **[monicrowd-fingerprinting-ml](https://github.com/sensinglab/monicrowd-fingerprinting-ml)**  
+  Research toolkit for Wi-Fi Information Element analysis, rule-based fingerprinting, dataset preparation, and machine-learning-based device counting under MAC address randomization.
+
 ## Hardware Overview
 
 ### Crowd Sensor *(crowd-sensor)*
@@ -169,7 +174,7 @@ The MoniCrowd project **2024.07624.IACDC** (https://doi.org/10.54499/2024.07624.
 ## Related Resources
 
 🌐 Website: https://monicrowd.sensinglab.eu  
-📊 Dataset: (Zenodo to be added)  
+📊 Datasets: [MoniCrowd — Wi-Fi Probe-Request Dataset](https://doi.org/10.5281/zenodo.22933876), [Wi-Fi Crowd Monitoring: Training and Test Dataset](https://doi.org/10.5281/zenodo.23039882)  
 📚 Publications: https://monicrowd.sensinglab.eu/home/dissemination  
 📣 Dissemination activities: https://monicrowd.sensinglab.eu/home/dissemination  
 📍 Demonstrations & deployments: https://monicrowd.sensinglab.eu/home/deployments  
