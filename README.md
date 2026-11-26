@@ -79,7 +79,17 @@ This repository serves as the central hub for the MoniCrowd ecosystem.
 ### Research & Data Analysis
 
 - **[monicrowd-fingerprinting-ml](https://github.com/sensinglab/monicrowd-fingerprinting-ml)**  
-  Research toolkit for Wi-Fi Information Element analysis, rule-based fingerprinting, dataset preparation, and machine-learning-based device counting under MAC address randomization.
+  Research toolkit for Wi-Fi Information Element analysis, rule-based fingerprinting, dataset preparation, and machine-learning-based device counting. The selected fingerprinting and ML configurations are used by the operational `crowd-sensor` implementation.
+
+### From Research to Deployment
+
+The MoniCrowd architecture separates the development and experimental evaluation of sensing methods from their operational deployment.
+
+The [MoniCrowd Fingerprinting and Machine Learning Toolkit](https://github.com/sensinglab/monicrowd-fingerprinting-ml) provides tools for analysing Wi-Fi Information Elements, developing fingerprinting rules, preparing datasets, and evaluating machine learning methods for device-count estimation.
+
+The selected fingerprinting rules and machine learning configurations are subsequently integrated into the [crowd-sensor](https://github.com/sensinglab/crowd-sensor), which performs local sensing and processing. The resulting estimates are transmitted to the [crowd-server](https://github.com/sensinglab/crowd-server), which provides the central backend services.
+
+This separation allows sensing and inference methods to be developed and evaluated independently of the operational edge-to-cloud infrastructure.
 
 ## Hardware Overview
 
